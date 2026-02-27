@@ -23,7 +23,7 @@ WARP 的 Sbox:
 
 
 
-<img width="1058" height="135" alt="image" src="https://github.com/user-attachments/assets/d5c701b0-85c4-48fd-9933-c343fc9e95bb" />
+<img width="560" height="80" alt="image" src="https://github.com/user-attachments/assets/d5c701b0-85c4-48fd-9933-c343fc9e95bb" />
 
 
 
