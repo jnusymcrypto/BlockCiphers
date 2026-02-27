@@ -13,7 +13,7 @@ Form [2020-SAC-WARP: Revisiting GFN for Lightweight 128-Bit Block Cipher](https:
 
 
 
-如上图所示, 128-bit 分组被分成 32-branch Generalized Feistel Network, 初始状态被分为 32 个 nibbles. 即, $X^{r}=X_0^r \parallel X_1^r || ... || X_{31}^r$ .
+如上图所示, 128-bit 分组被分成 32-branch Generalized Feistel Network, 初始状态被分为 32 个 nibbles. 即, $X^{r}=X_0^r \parallel X_1^r \parallel ... \parallel X_{31}^r$ .
 
 轮密钥只加在一半的状态上 (Feistel 结构的特点), 所以 128-bit 密钥被分为两组, 各 64 btis, $K=K_0||K_1$, 第 $r$ 轮的密钥记为 $RK^r=K^{(r-1) \mod 2}$.
 
