@@ -32,3 +32,14 @@ WARP 的 线性层置换 $\pi$:
 
 
 <img width="1399" height="396" alt="image" src="https://github.com/user-attachments/assets/6f725d63-97f9-44f1-bb97-fca91705c19c" />
+
+
+## 算法特点:
+
+
+## 应用场景:
+
+
+## 最新分析结果:
+
+
