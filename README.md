@@ -6,4 +6,6 @@
 
 ### SPN
 ### Feistel/Generic Feistel
+* WARP
+* 
 ### ARX
