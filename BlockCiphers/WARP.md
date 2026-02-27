@@ -30,8 +30,9 @@ WARP 的 Sbox:
 WARP 的 线性层置换 $\pi$:
 
 
+<img src="https://github.com/user-attachments/assets/6f725d63-97f9-44f1-bb97-fca91705c19c" style="zoom:60%;" />
 
-<img src="https://github.com/user-attachments/assets/6f725d63-97f9-44f1-bb97-fca91705c19c" style="zoom:80%;" />
+
 
 ## 算法特点:
 
