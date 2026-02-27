@@ -5,5 +5,5 @@
 ## 依结构分类：
 
 ### SPN
-### Feistel
+### Feistel/Generic Feistel
 ### ARX
