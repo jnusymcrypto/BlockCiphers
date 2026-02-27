@@ -9,7 +9,7 @@ Form [2020-SAC-WARP: Revisiting GFN for Lightweight 128-Bit Block Cipher](https:
 
 
 
-<img width="1306" height="235" alt="image" src="https://github.com/user-attachments/assets/c27cae96-9b6d-41d4-a49f-3077a80f4500" />
+<img width="800" height="120" alt="image" src="https://github.com/user-attachments/assets/c27cae96-9b6d-41d4-a49f-3077a80f4500" />
 
 
 
