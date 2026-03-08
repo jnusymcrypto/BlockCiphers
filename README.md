@@ -11,3 +11,11 @@
 * 
 
 ### ARX
+
+
+## Typical components:
+
+* Tweakey Framework
+* Sponge
+* MDS (Maximum Distance Separable matrix)
+* APN (Almost Perfect Nonlinear)
